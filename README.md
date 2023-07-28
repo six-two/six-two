@@ -1,5 +1,5 @@
 ### Hello, World!
 
-I am six-two a programmer and IT security consultant.
+I am six-two, a pentester who also loves to write small scripts and programs.
 
-But I have also build some websites you can see at [projects.six-two.dev](https://projects.six-two.dev).
+You can find my projects on [Github](https://github.com/six-two?tab=repositories), [Gitlab](https://gitlab.com/users/six-two/projects?tab=repositories), and [PyPI](https://pypi.org/user/six-two/).
